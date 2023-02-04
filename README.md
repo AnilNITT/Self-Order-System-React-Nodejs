@@ -12,7 +12,7 @@
 <img src="./Capture3.PNG" />
 <br>
 
-#How to Start the Project
+# How to Start the Project
 # Install the dependency
 yarn install
 
